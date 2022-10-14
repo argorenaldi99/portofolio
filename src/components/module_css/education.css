@@ -1,0 +1,124 @@
+.education-wrap {
+
+    color: #FFFFFF;
+    margin: auto;
+    margin-top: 8em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+
+.education-title {
+    
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.education-line {
+   
+    border: 3px solid #FFFFFF;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 175px;
+    padding-bottom: 4em;
+}
+
+.education-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    
+   
+   
+}
+
+.school-name-1 {
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.degree-1 {
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.score {
+    padding-bottom: 2em;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.content-line-1 {
+   
+    border: 3px solid #FFFFFF;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(90deg);
+    width: 70px;
+}
+
+.school-name-2 {
+    padding-top: 50px;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.degree-2 {
+    font-weight: 400;
+    font-size: 24px;
+    padding-bottom: 2em;
+    
+}
+
+.content-line-2 {
+
+    border: 3px solid #FFFFFF;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(90deg);
+    width: 75px;
+}
+
+.school-name-3 {
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.content-line-3 {
+    border: 3px solid #FFFFFF;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(90deg);
+    width: 40px;
+}
+
+.school-name-4 {
+    padding-top: 1em;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}

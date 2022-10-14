@@ -1,0 +1,240 @@
+.title-skill {
+
+    padding: 2em;
+    height: 55.32px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #251852;
+
+}
+
+.wrapper-line {
+
+   
+    border: 3px solid #251852;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+.skill-box {
+    padding: 2em;
+    width: 65%;
+    box-sizing: border-box;
+    border: 3px solid #251852;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.skill-box-1 {
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    padding: 1.5em;
+   
+}
+.skill-box-2{
+        box-sizing: border-box;
+        flex-wrap: wrap;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2em;
+        padding: 1.5em;
+}
+.skill-box-group-1{
+    width: auto;
+    height: auto;
+    display: flex;
+
+}
+
+.box-title1 {
+    width: 129.68px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #251852;
+}
+
+.box-title2 {
+   
+    width: 70.59px;
+    height: 29.85px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32.3787px;
+    line-height: 39px;
+    color: #251852;
+}
+
+.html {
+   
+    width: 74.38px;
+    height: 59.93px;
+    
+    
+}
+.html img{
+    width: 100%;
+  height: auto;
+}
+.css {
+
+    width: 69.84px;
+    height: 67.3px;
+  ;
+
+}
+
+.cplus {
+    
+    width: 50.16px;
+    height: 54.4px;
+   
+
+
+}
+
+.java {
+
+    width: 118.63px;
+    height: 114.33px;
+  
+
+}
+
+.pascal {
+    
+    width: 83.06px;
+    height: 43.33px;
+}
+
+.sql {
+  
+    width: 80.36px;
+    height: 77.45px;
+    
+
+}
+
+.python {
+  
+    width: 58.36px;
+    height: 56.24px;
+    
+}
+
+.mysql {
+ 
+    width: 105.23px;
+    height: 35.42px;
+     
+}
+.mysql img{
+ 
+    width: 105.23px;
+    height: 101.42px;
+     
+}
+
+.javascript {
+    
+    width: 45.92px;
+    height: 44.26px;
+   
+
+}
+
+.nodejs {
+
+   
+    width: 46.19px;
+    height: 40.13px;
+    
+}
+
+
+.php {
+ 
+    width: 84.19px;
+    height: 81.13px;
+}
+
+.junit {
+
+    width: 79.06px;
+    height: 43.33px;
+    
+
+}
+
+.go {
+
+    width: 109.06px;
+    height: 43.33px;
+    
+}
+
+.react {
+   
+    width: 59.31px;
+    height: 55.32px;
+    
+}
+
+.jmeter {
+
+    width: 106.19px;
+    height: 117.09px;
+   
+
+}
+
+.postman {
+
+    width: 164px;
+    height: 54px;
+    
+}
+
+.rest {
+
+   
+    width: 102.58px;
+    height: 28.58px;
+   
+}
+
+#tracking-in-expand-fwd-bottom {
+    -webkit-animation: tracking-in-expand-fwd-bottom 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: tracking-in-expand-fwd-bottom 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+@media screen and (max-width: 600px) {
+
+    .skill-box-1{
+        border: #251852 3px solid;
+    }
+    .skill-box-2{
+        border: #251852 3px solid;
+    }
+   
+    .box-title2{
+        
+        padding-bottom: 2em;
+        padding-top: 1em;
+    }
+}
